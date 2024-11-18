@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+    <img width="50" height="50" src="[https://github.com/tysun/tysun/blob/738044e460c00c7d30b6181a52174616c86b1de6/avatar-gif.png]" />
+  </a>
+  <br>
+  <p>
+    <a href="https://twitter.com/jaywcjlove"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
+    <a href="mailto:kansaihappy@gmail.com"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
+  </p>
+  <br>
+  <br>
+  
+  Hi, I'm Tysun, AI Rresearcher & SWE from YVR living in KIX.
+  <p> 
+    <a href="https://twitter.com/tysun">Twitter</a> • 
+    <a href="mailto:kansaihappy@gmail.com">E-Mail</a> • 
+  </p>
+  <br>
+  <br>
+  
+<!--repos-end-->
 
-<!--
-**tysun/tysun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+</a>
