@@ -1,25 +1,8 @@
-<div align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/tysun/tysun/refs/heads/main/avatar.gif">
+[![Social banner for tysun](https://github.com/tysun/tysun/blob/main/cat-vr-crop.jpeg)](https://tysun.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Tysun.
 </p>
-  <p>
-    <a href="https://twitter.com/tysun"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
-    <a href="mailto:fandoms.unmade-0o@icloud.com"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
-  </p>
-  
-  Hi, I'm Tysun, AI Rresearcher & SWE from YVR living in KIX.
-  <br>
-  <br>
-  
-<!--repos-end-->
+<p align='center'>For enquiries, reach out to tysun@tysun.dev or over on <a href="https://x.com/tysun">X</a>.</p>
 
-</details>
-
-
-<br />
-</a>
+<h1 align='center'><i>Stay awesome!</i></h1>
