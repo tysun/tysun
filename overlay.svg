@@ -5,7 +5,7 @@
   <!-- Overlay Text with Shadow -->
   <defs>
     <filter id="shadow">
-      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-color="gray" flood-opacity="0.8"/>
+      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-color="gray" flood-opacity="0.5"/>
     </filter>
   </defs>
 
