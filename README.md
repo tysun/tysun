@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/tysun/tysun/blob/main/overlay.svg" alt="Background with Text">
+  <img src="https://raw.githubusercontent.com/tysun/tysun/main/overlay.svg" alt="Tysun">
 </p>
