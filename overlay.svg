@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Background Image -->
+  <image xlink:href="https://github.com/tysun/tysun/blob/main/vr-ar-design.png" width="800" height="400"/>
+
+  <!-- Overlay Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="36" font-family="Arial, sans-serif">
+    Hi! 👋 I'm Tysun.
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="16" font-family="Arial, sans-serif">
+    For enquiries: tysun@tysun.dev | <a href="https://twitter.com/tysun">Twitter</a>
+  </text>
+</svg>
