@@ -20,6 +20,6 @@
 
   <!-- Twitter/X Link -->
   <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="16" font-family="Arial, sans-serif" filter="url(#shadow)">
-    Twitter/X: <a href="https://x.com/tysun" style="fill:blue; text-decoration:underline;">https://x.com/tysun</a>
+    <a href="https://x.com/tysun" style="fill:none; text-decoration:none;">https://x.com/tysun</a>
   </text>
 </svg>
