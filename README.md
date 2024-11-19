@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  For enquiries, reach out to <a href="mailto:tysun@tysun.dev">tysun@tysun.dev</a> or over on <a href="https://x.com/tysun">X</a>.
+  For enquiries, reach out to <a href="mailto:hello@tysun.dev">hello@tysun.dev</a> or over on <a href="https://x.com/tysun">X</a>.
 </p>
 
 <p align='center' style="font-size: 1.5em; font-style: italic; font-weight: bold;">
