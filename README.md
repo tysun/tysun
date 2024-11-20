@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm Tysun.
+  I'm Tysun, PhD student, SWE and researcher in Kyoto.
 </p>
 
 <p align='center'>
