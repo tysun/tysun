@@ -14,6 +14,3 @@
   For enquiries, reach out to <a href="mailto:hello@tysun.dev">hello@tysun.dev</a> or over on <a href="https://x.com/tysun">X</a>.
 </p>
 
-<p align='center' style="font-size: 1.5em; font-style: italic; font-weight: bold;">
-  Stay awesome!
-</p>
