@@ -11,6 +11,6 @@
 </p>
 
 <p align='center'>
-  For enquiries, reach out to <a href="mailto:algos@tysun.dev">algos@tysun.dev</a> or over on <a href="https://x.com/tysun">X</a>.
+  For enquiries, reach out to <a href="mailto:blackbox@tysun.dev">blackbox@tysun.dev</a> or over on <a href="https://x.com/tysun">X</a>.
 </p>
 
