@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  AI engineer and PhD researcher based in Kyoto, contributing to open source.
+  AI systems engineer and PhD researcher based in Kyoto | contributing to open source.
 </p>
 
 <p align='center'>
