@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm Tysun, PhD Researcher in AI, SWE in Kyoto.
+  AI engineer and PhD researcher based in Kyoto, contributing to open source.
 </p>
 
 <p align='center'>
